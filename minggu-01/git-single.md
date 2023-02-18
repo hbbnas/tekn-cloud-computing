@@ -1,0 +1,30 @@
+# Latihan Minggu - 01
+
+1. Install Git: ``DONE``
+    - <img src="/C:/tekn-cloud-comp/images/Git Version.jpg" alt="Git Version" style="max-width: 100%;">
+
+
+2. Konfigurasi Git: ``DONE``
+    - <img src="/C:/tekn-cloud-comp/images/Git Konfigurasi.jpg" alt="Git Konfigurasi" style="max-width: 100%;">
+
+
+3. Kelola Repo: ``DONE``
+    - Membuat Repo Baru
+    - <img src="/C:/tekn-cloud-comp/images/Membuat Repo.jpg" alt="Git Konfigurasi" style="max-width: 100%;">
+    
+    - Clone Repo
+    - <img src="/C:/tekn-cloud-comp/images/Clone.jpg" alt="Clone" style="max-width: 100%;">
+
+    - Menambahkan File
+    - ![Menambahkan file](../images/01/tambah-biodata.png)
+
+    - Menambahkan Branch
+    - ![Menambahkan Branch](../images/01/new-branch.png)
+
+    - Mengubah/Menambahkan Isi dengan Branching and Merging
+    - ![Pull Request](../images/01/pull-request.png)
+    - ![Preview Pull Request](../images/01/preview-pull-request.png)
+    - ![Merger Branch](../images/01/merge-branch.png)
+
+    - Undo Commit Terakhir
+    - ![Undo Commit Terakhir](../images/01/revert.png)
